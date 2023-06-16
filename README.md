@@ -1,15 +1,11 @@
-## References for AGU Poster 2022
+## References for GRS  Poster 2023
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Imaging-the-Mid-mantle-Structure-of-the-Yellowstone-Plume-using-Box-Tomography)
 
 ```
-Abstract ID and Title: 1052518: Mid-mantle Structure of the Yellowstone Plume Imaged Using Box Tomography
-Authors: Utpal Kumar, Federico Munch, Chao Lyu, Sevan Adourian, Satish Maurya, Barbara Romanowicz
-Final Paper Number: DI45A-0014
+Abstract ID and Title: Box Tomography of the Yellowstone Plume: Focus on its Mid-Mantle Structure
+Authors: Utpal Kumar, Federico Munch, Chao Lyu, Barbara Romanowicz
 Presentation Type: Poster
-Session Number and Title: DI45A: Advances in Mantle Convection and Planetary Evolution III Poster
-Session Date and Time: Thursday, December 15th; 2:45 PM - 6:15 PM
-Location: McCormick Place, Poster Hall, Hall A 
 ```
 
 1. S Adourian, C Lyu, Y Masson, F Munch, B Romanowicz, Combining different 3-D global and regional seismic wave propagation solvers towards box tomography in the deep Earth, Geophysical Journal International, Volume 232, Issue 2, February 2023, Pages 1340–1356, <https://doi.org/10.1093/gji/ggac394>
